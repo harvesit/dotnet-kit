@@ -24,6 +24,8 @@ My personal list of open source development kit for dotnet.
 2. UnitsNet https://github.com/angularsen/UnitsNet
 3. Humanizer https://github.com/Humanizr/Humanizer
 4. Polly https://github.com/App-vNext/Polly
+5. NSwag https://github.com/RicoSuter/NSwag
+6. Refit https://github.com/reactiveui/refit
 
 ## Logging
 1. OpenTelemetry https://docs.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-enable?tabs=net
